@@ -45,7 +45,7 @@
     "version": "node scripts/sync-version.mjs && git add src/version.ts"
   },
   "devDependencies": {
-    "@types/node": "^24.13.3",
+    "@types/node": "^26.2.0",
     "ts-builds": "^3.3.0",
     "tsdown": "^0.22.14",
     "wrangler": "^4.123.0"
